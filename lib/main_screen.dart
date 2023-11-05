@@ -68,7 +68,7 @@ class _MainScreenState extends State<MainScreen> with TickerProviderStateMixin {
 
   Future<FragmentShader> _load() async {
     FragmentProgram program =
-        await FragmentProgram.fromAsset(shaders[1]);
+        await FragmentProgram.fromAsset(shaders[0]);
     return program.fragmentShader();
   }
 }
