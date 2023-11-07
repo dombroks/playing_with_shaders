@@ -1,4 +1,4 @@
-# Shader in Flutter
+# Shaders in Flutter
 
 A Flutter project for experimenting with shaders.
 
