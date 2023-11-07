@@ -20,17 +20,10 @@ This project is a simple Flutter application that allows you to play with shader
 
 ## Usage
 
-1\. Clone and run the application.
-2\. Explore the two shaders by changing the shader name in the _loadShader method.\
+1\. Clone and run the application.\
+2\. Explore the two shaders by changing the shader name in the `_load()` method.\
 3\. Modify the shader code in `lib/shaders` to experiment and create your visual effects.
 
-## Contributing
-
-Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
-## License
-
-The project is released under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
