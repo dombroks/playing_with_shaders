@@ -29,4 +29,3 @@ This project is a simple Flutter application that allows you to play with shader
 
 - [ShaderToy](https://www.shadertoy.com) - A website that inspired this project and provided the shader code.
 
-Feel free to add or modify the sections as necessary and include any additional information you'd like to provide about your project.
