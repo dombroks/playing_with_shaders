@@ -14,7 +14,9 @@ This project is a simple Flutter application that allows you to play with shader
 
 ## Screenshots
 
-Include some screenshots or GIFs showcasing your application's features.
+| <img src="screenshots/Screenshot_2023-11-05-19-42-27-335_com.example.shader_example.jpg" width="200"/> | <img src="screenshots/Screenshot_2023-11-05-19-43-58-859_com.example.shader_example.jpg" width="200"/> |
+|:---:|:---:|
+|Galaxy of universes|Star nest|
 
 ## Usage
 
