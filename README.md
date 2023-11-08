@@ -8,8 +8,8 @@ This project is a simple Flutter application that allows you to play with shader
 
 ## Features
 
-- Display and interact with various shaders.\
-- Customize shader parameters to achieve different visual effects.\
+- Display and interact with various shaders.
+- Customize shader parameters to achieve different visual effects.
 - Explore and experiment with shader programming.
 
 ## Screenshots
